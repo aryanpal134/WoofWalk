@@ -4,7 +4,7 @@ Resource page for the WoofWalk App
 # Support Page
 
 WoofWalk is available for iPhone on the Apple App Store.
-WoofWalk is intended for use by veteriniarians and dog-owners to track their dog's walks. 
+WoofWalk is intended for use by veterinarians and dog owners to track their dog's walks. 
 WoofWalk will analyze the walks to provide measurements on the dog's performance. 
 Once you complete a walk, you will have the option to save the walk to your device. 
 You can access your saved walks in the "Past Walks" tab of the app.
