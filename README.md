@@ -19,5 +19,5 @@ In some cases, WoofWalk may be unable to immediately pinpoint the user's locatio
 
 # Privacy Policy
 
-WoofWalk requires access to your device's location in order to track the walk and gather data regarding the walk. 
+WoofWalk requires access to your device's location in order to track the walk and gather data regarding the walk. This data is stored locally on your device, and not accessible to any person except the device owner.
 This data is solely for the user's eyes and is not used by any person besides the user for any purpose.
