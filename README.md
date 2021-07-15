@@ -1,7 +1,7 @@
 # WoofWalk
 Resource page for the WoofWalk App
 
-**Support Page**
+# Support Page
 
 WoofWalk is available for iPhone on the Apple App Store.
 WoofWalk is intended for use by veteriniarians and dog-owners to track their dog's walks. 
@@ -17,7 +17,7 @@ In some cases, WoofWalk may be unable to immediately pinpoint the user's locatio
 2. Wait for the app to find your location. This may take upwards of 10 seconds but should take no longer than 30 seconds.
 3. Once the app finds your location, end and discard the walk. Now you can start a new walk and the app should be able to pinpoint your location almost immediately.
 
-**Privacy Policy**
+# Privacy Policy
 
 WoofWalk required access to your device's location in order to track the walk and gather data regarding the walk. 
 This data is solely for the user's eyes and is not used by any person besides the user for any purpose.
